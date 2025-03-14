@@ -1,6 +1,6 @@
 ﻿# Catoms (CMGT: Project Final Approach)
 
-For more information, visit the website: https://github.com/TechnicJelle/PFA-SPA
+For more information, visit the website: [technicjelle.com/PFA-SPA](http://technicjelle.com/PFA-SPA)
 
 ## Soundtrack
 Stream or buy the soundtrack of this game at [redotter.bandcamp.com/track/catoms](https://redotter.bandcamp.com/track/catoms)
