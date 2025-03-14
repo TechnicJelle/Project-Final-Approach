@@ -2,6 +2,8 @@
 
 For more information, visit the website: [technicjelle.com/PFA-SPA](http://technicjelle.com/PFA-SPA)
 
+![test 0ed8f42fed926d104acc-ezgif com-optimize](https://github.com/user-attachments/assets/ffcd17cc-474e-4b00-8761-8a8400ae01d0)
+
 ## Development notes
 Development notes are available in the [wiki](../../wiki/).
 Look on the right side for the various pages.
