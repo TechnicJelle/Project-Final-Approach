@@ -2,6 +2,10 @@
 
 For more information, visit the website: [technicjelle.com/PFA-SPA](http://technicjelle.com/PFA-SPA)
 
+## Development notes
+Development notes are available in the [wiki](../../wiki/).
+Look on the right side for the various pages.
+
 ## Soundtrack
 Stream or buy the soundtrack of this game at [redotter.bandcamp.com/track/catoms](https://redotter.bandcamp.com/track/catoms)
 
